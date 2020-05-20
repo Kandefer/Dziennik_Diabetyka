@@ -1,5 +1,5 @@
-# Dziennik_Diabetyka
-Projekt stworzenia dziennika dla diabetyków
+# Dziennik Diabetyka
+Projekt stworzenia dziennika dla diabetyków.
 
 Projekt tworzą:
 
