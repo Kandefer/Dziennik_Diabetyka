@@ -5,6 +5,9 @@ Projekt tworzą:
 
 
 Dominik Czyżyk
+
 Krzysztof Kandefer
+
 Michał Kawiak
+
 Bartosz Więcek
